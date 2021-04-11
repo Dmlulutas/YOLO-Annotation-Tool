@@ -31,4 +31,4 @@ deneme2
 
 deneme3 
 
-İlk eski bir commiti değiştirmek ile başlayalım
+Kodumuzu en son commitdeki haline çekelim.
