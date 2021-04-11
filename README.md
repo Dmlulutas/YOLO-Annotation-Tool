@@ -25,10 +25,5 @@ or
 
 ```python convert.py```
 # -------Progress-------
-gdhghdjdjdjskkkskkksdksdkdks
-deneme
-deneme2
 
-deneme3
-
-son commiti değiştirmek için amend komutundan yararlanabiliriz.
+belli bir commite dönmek için checkout kullanılabilir
