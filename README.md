@@ -31,4 +31,4 @@ deneme2
 
 deneme3
 
-Belli bir commite dönmek için checkout u kullanabiliriz.
+son commiti değiştirmek için amend komutundan yararlanabiliriz.
