@@ -29,6 +29,6 @@ gdhghdjdjdjskkkskkksdksdkdks
 deneme
 deneme2
 
-deneme3 
+deneme3
 
-Kodumuzu en son commitdeki haline çekelim. 
+son commiti değiştirmek için amend komutundan yararlanabiliriz.
