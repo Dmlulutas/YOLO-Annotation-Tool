@@ -25,5 +25,4 @@ or
 
 ```python convert.py```
 # -------Progress-------
-
-update 1
+belli bir commit numarasına dönmek codelarınızı geri almak için checkout kullanabilirsiniz.
