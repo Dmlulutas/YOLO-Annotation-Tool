@@ -31,4 +31,4 @@ deneme2
 
 deneme3 
 
-Kodumuzu en son commitdeki haline çekelim.
+Kodumuzu en son commitdeki haline çekelim. 
