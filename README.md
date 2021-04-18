@@ -28,8 +28,4 @@ or
 
 update 1  
 
-<<<<<<< HEAD
 update 50
-=======
-update 100
->>>>>>> c458807ae0b460ef24eede4ae62cde6ce6c66e40
