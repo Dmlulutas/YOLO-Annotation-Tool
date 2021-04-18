@@ -26,4 +26,4 @@ or
 ```python convert.py```
 # -------Progress-------
 
-before --amend
+--amend
